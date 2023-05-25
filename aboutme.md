@@ -7,7 +7,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus.jpg?raw=true)
 
 ### Hyun-Rok Cha
-![hrcha](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.jpg?raw=true)
+![hrcha](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png?raw=true)
 received a Ph.D. degree in physics from the Tokyo Institute of Technology, Tokyo, Japan, in 2009.
 He was with the Samsung Electronics Research Center, Gwangju, for a period of four years.
 Since 2004, he has been a Senior Researcher with the Automotive Materials \& Components R\&D Group, Korea Institute of Industrial Technology. 
