@@ -2,6 +2,9 @@
 layout: post
 title: hrchalab 홈페이지 개설 안내
 subtitle: 홈페이지를 개설 하였습니다
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/Aboutus_small.jpg
+share-img: /assets/img/path.jpg
 tags: [test]
 comments: true
 ---
