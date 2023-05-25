@@ -22,7 +22,7 @@ author: HyunRok Cha
 navbar-links:
   About Us: "aboutme"
   Research:
-    - research overview: "aboutme"
+    - research overview: "research_overview"
     - publication: "aboutme"
   Projects:
     - current projects: "aboutme"
