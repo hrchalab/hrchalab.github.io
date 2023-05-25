@@ -3,7 +3,7 @@ layout: page
 title: About Us
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
-### Our lab current members
+### 차현록박사님 연구실 멤버 Our lab current members
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus_small.jpg?raw=true)
 
