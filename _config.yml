@@ -21,10 +21,12 @@ author: HyunRok Cha
 
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - research overview: "aboutme"
+    - publication: "aboutme"
+  Projects:
+    - current projects: "aboutme"
+    - finished projects: "aboutme"
 
 ################
 # --- Logo --- #
