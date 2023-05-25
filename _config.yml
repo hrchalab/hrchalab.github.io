@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutme"
   Research:
     - research overview: "research_overview"
-    - publication: "aboutme"
+    - publication: "publication"
   Projects:
     - current projects: "aboutme"
     - finished projects: "aboutme"
