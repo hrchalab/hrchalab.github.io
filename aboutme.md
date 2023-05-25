@@ -7,7 +7,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus_small.jpg?raw=true)
 
-### Hyun-Rok Cha
+### 차현록 Hyun-Rok Cha
 ![hrcha](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png?raw=true)
 
 {: .box-note}
