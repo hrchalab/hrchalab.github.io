@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: hrchalab 홈페이지 개설 안내
+subtitle: 홈페이지를 개설 하였습니다
 tags: [test]
 comments: true
 ---
+
+# 차랩 홈페이지를 개설하였습니다
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
