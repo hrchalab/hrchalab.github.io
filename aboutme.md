@@ -4,6 +4,8 @@ title: About Us
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
+![Crepe](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus.jpg?raw=true)
+
 ### contents
 테스트입니다:
 
