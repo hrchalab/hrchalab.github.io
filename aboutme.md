@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About Us
+title: About Supervisor
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
-### 차현록박사님 연구실 멤버 Our lab current members
-
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus_small.jpg?raw=true)
 
 ### 차현록 Hyun-Rok Cha
