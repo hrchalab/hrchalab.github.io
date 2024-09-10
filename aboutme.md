@@ -3,7 +3,6 @@ layout: page
 title: About Supervisor
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/Aboutus_small.jpg?raw=true)
 
 ### 차현록 Hyun-Rok Cha
 ![hrcha](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png?raw=true)
