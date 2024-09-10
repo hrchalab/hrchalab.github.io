@@ -5,6 +5,9 @@ jobs:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
+      - name: Update RubyGems
+        run: gem update --system
+
       - uses: actions/checkout@v3
       - name: Build the site in the jekyll/builder container
         run: |
@@ -14,5 +17,3 @@ jobs:
           -e PAGES_REPO_NWO=${{ github.repository }} \
           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-      - name: Update RubyGems
-        run: gem update --system
