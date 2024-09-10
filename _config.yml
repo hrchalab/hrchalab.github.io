@@ -20,7 +20,7 @@ author: HyunRok Cha
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About supervisor: "aboutme"
   Research:
     - research overview: "research_overview"
     - publication: "publication"
