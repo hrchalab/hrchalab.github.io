@@ -4,7 +4,7 @@ title: About Supervisor
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
-<img align="left" width="150" src="https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png?raw=true" />
+<img align="left" width="300" src="https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png" />
 
 # 차현록 Hyun-Rok Cha (Ph.D)
 * 주요학력
