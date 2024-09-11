@@ -4,17 +4,25 @@ title: About Supervisor
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
-<img align="left" width="300" src="https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png" />
-
-# 차현록 Hyun-Rok Cha (Ph.D)
-* 주요학력
- - 전남대학교  학사 (1998)
- - 전남대학교 대학원 전기공학과 석사 (2000)
- - 일본 동경공업대학 대학원 물리정보응용 박사(2009) 
-* 주요경력
- - 삼성전자 선임연구원(’00 ~ ’04)
- - 동경공업대 정밀공학연구소 준객원연구원(’07 ~ ’07)
- - 전남대학교 전기공학과 겸임교원(’10 ~ ’12)
- - 과학기술연합대학원대학(UST) 교수(’15 ~ 현재)
- - 한국생산기술연구원 수석연구원(’04 ~ 현재)
- - 한국생산기술연구원 서남본부장(’23. 10 ~ 현재)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png" alt="Hyun-Rok Cha" style="width: 300px; margin-right: 20px;" />
+  
+  <div>
+    <h1>차현록 Hyun-Rok Cha (Ph.D)</h1>
+    <p><strong>주요학력</strong></p>
+    <ul>
+      <li>전남대학교 학사 (1998)</li>
+      <li>전남대학교 대학원 전기공학과 석사 (2000)</li>
+      <li>일본 동경공업대학 대학원 물리정보응용 박사 (2009)</li>
+    </ul>
+    <p><strong>주요경력</strong></p>
+    <ul>
+      <li>삼성전자 선임연구원(’00 ~ ’04)</li>
+      <li>동경공업대 정밀공학연구소 준객원연구원(’07 ~ ’07)</li>
+      <li>전남대학교 전기공학과 겸임교원(’10 ~ ’12)</li>
+      <li>과학기술연합대학원대학(UST) 교수(’15 ~ 현재)</li>
+      <li>한국생산기술연구원 수석연구원(’04 ~ 현재)</li>
+      <li>한국생산기술연구원 서남본부장(’23. 10 ~ 현재)</li>
+    </ul>
+  </div>
+</div>
