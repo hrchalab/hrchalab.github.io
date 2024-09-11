@@ -5,17 +5,17 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/hrcha.png" alt="Hyun-Rok Cha" style="width: 300px; margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/hrcha.png" alt="Hyun-Rok Cha" style="width: 200px; margin-right: 20px;" />
   
   <div>
     <h1>차현록 Hyun-Rok Cha (Ph.D)</h1>
-    <p><strong>주요학력</strong></p>
+    <p><strong>주요 학력</strong></p>
     <ul>
       <li>전남대학교 학사 (1998)</li>
       <li>전남대학교 대학원 전기공학과 석사 (2000)</li>
       <li>일본 동경공업대학 대학원 물리정보응용 박사 (2009)</li>
     </ul>
-    <p><strong>주요경력</strong></p>
+    <p><strong>주요 경력</strong></p>
     <ul>
       <li>삼성전자 선임연구원(’00 ~ ’04)</li>
       <li>동경공업대 정밀공학연구소 준객원연구원(’07 ~ ’07)</li>
