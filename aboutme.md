@@ -5,7 +5,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/hrcha.png" alt="Hyun-Rok Cha" style="width: 300px; margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/hrcha.png" alt="Hyun-Rok Cha" style="width: 300px; margin-right: 20px;" />
   
   <div>
     <h1>차현록 Hyun-Rok Cha (Ph.D)</h1>
