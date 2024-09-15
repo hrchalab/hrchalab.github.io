@@ -2,7 +2,7 @@
 layout: page
 title: About Supervisor
 subtitle: Smart mobilities & Motor design & Autonomous-driving
-tags: [차현록,차현록교수,UST,한국생산기술연구원,홈페이지,소개]
+tags: [차현록,차현록교수,UST,한국생산기술연구원,홈페이지,소개,서남본부,KITECH]
 ---
 
 <div style="display: flex; align-items: flex-start;">
