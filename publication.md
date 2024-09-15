@@ -38,6 +38,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - E Kim, T Lim, M Hwang, H Cha, State Estimation Predictor with Stochastic time-delay Based Framework for Teleoperated Vehicle, 2023 IEEE 6th International Conference on Knowledge Innovation and Invention. [link](https://ieeexplore.ieee.org/abstract/document/10332694/)
 
 - C Jeong, E Kim, MH Hwang, HR Cha, Enhancing Drivers’ Perception of Traffic Lights through Haptic Alerts on the Brake Pedal, 2023 IEEE 6th International Conference on Knowledge Innovation and Invention. [link](https://ieeexplore.ieee.org/abstract/document/10332767/)
+
 ---
 
 # 2022
