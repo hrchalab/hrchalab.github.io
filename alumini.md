@@ -1,6 +1,6 @@
 ---
 layout: page
-title: current members
+title: previous lab members
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 # 2024
