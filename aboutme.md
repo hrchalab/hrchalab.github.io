@@ -28,7 +28,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/mhhwang.png" alt="Myeong-Hwan Hwang" style="width: 200px; margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/mhhwang.jpg" alt="Myeong-Hwan Hwang" style="width: 200px; margin-right: 20px;" />
   
   <div>
     <h1>황명환 Myeong Hwan Hwang (Ph.D)</h1>
