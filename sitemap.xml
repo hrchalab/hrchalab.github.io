@@ -9,7 +9,7 @@ sitemap:
     {% if post.published != false %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-      <lastmod>{{ post.sitemap.lastmod | default: post.date | date_to_xmlschema }}</lastmod>
+      <lastmod>{{ post.sitemap.lastmod | default: post.date | date: "%Y-%m-%d" }}</lastmod>
       <changefreq>{{ post.sitemap.changefreq | default: 'monthly' }}</changefreq>
       <priority>{{ post.sitemap.priority | default: 0.5 }}</priority>
     </url>
@@ -19,11 +19,10 @@ sitemap:
     {% if page.sitemap.exclude != "yes" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{{ page.sitemap.lastmod | default: page.date | date_to_xmlschema }}</lastmod>
+      <lastmod>{{ page.sitemap.lastmod | default: page.date | date: "%Y-%m-%d" }}</lastmod>
       <changefreq>{{ page.sitemap.changefreq | default: 'monthly' }}</changefreq>
       <priority>{{ page.sitemap.priority | default: 0.3 }}</priority>
     </url>
     {% endif %}
   {% endfor %}
 </urlset>
-
