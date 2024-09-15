@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: base
 title: gallery
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
