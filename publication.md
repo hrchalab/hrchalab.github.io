@@ -6,10 +6,12 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 # 2024
 ---
+
 ## Journal
 - E Kim, H Cha, T Talluri, C Jeong, H Kim, S Yoon, M Hwang. "Delay Compensation and Outlier Removal in Command Signal for Teleoperated Vehicle using Asynchronous Filter." IEEE Access (2024). [link](https://ieeexplore.ieee.org/iel7/6287639/6514899/10480424.pdf)
 
 - E Kim, M Hwang, T Lim, C Jeong, S Yoon, H Cha, Communication Delay Outlier Detection and Compensation for Teleoperation Using Stochastic State Estimation, Sensors 24 (4), 1241. [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=Xp1cT4MAAAAJ&sortby=pubdate&citation_for_view=Xp1cT4MAAAAJ:_Qo2XoVZTnwC)
+  
 ---
 ## Proceedings
 
