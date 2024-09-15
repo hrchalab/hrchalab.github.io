@@ -7,7 +7,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 # 박사후 연구원 및 학생연구원
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/egkim.png" alt="Eugene Kim" style="width: 200px; margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/egkim.jpg" alt="Eugene Kim" style="width: 200px; margin-right: 20px;" />
   
   <div>
     <h1>김유진 Eugene Kim (Ph.D)</h1>
