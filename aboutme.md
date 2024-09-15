@@ -26,3 +26,20 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
     </ul>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/hrchalab/hrchalab.github.io/master/assets/img/mhhwang.png" alt="Myeong-Hwan Hwang" style="width: 200px; margin-right: 20px;" />
+  
+  <div>
+    <h1>황명환 Myeong Hwan Hwang (Ph.D)</h1>
+    <p><strong>주요 학력</strong></p>
+    <ul>
+      <li>전남대학교 박사 (2021)</li>
+    </ul>
+    <p><strong>주요 경력</strong></p>
+    <ul>
+      <li>한국생산기술연구원 연구원(’21 ~ 24)</li>
+      <li>한국생산기술연구원 선임연구원(’24 ~ 현재)</li>
+    </ul>
+  </div>
+</div>
