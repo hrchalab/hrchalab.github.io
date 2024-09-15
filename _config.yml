@@ -21,6 +21,9 @@ author: HyunRok Cha
 
 navbar-links:
   About supervisor: "aboutme"
+  Members: 
+   - current members: "members"
+   - alumini: "alumini"
   Research:
     - research overview: "research_overview"
     - publication: "publication"
