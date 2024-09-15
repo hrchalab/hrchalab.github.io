@@ -24,6 +24,7 @@ navbar-links:
   Members: 
    - current members: "members"
    - alumini: "alumini"
+   - gallery: "gallery"
   Research:
     - Publication: "publication"
     - Battery: "battery"
