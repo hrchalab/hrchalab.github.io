@@ -55,7 +55,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
   </div>
 </div>
 
-# 김현우
+# 김현우 (Ph.D Candidate)
 ---
 - 성균관대학교 박사과정
 
@@ -65,6 +65,8 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 # 정찬영
 ---
+- GIST 학사
+- 한국생산기술연구원 연구원
 - GIST 박사과정
 
 # 임태윤
@@ -73,3 +75,20 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 한국생산기술연구원 연구원
 - 전남대학교 전기전자 석사 (재학중)
 
+# 변재국
+---
+- 울산대학교 학사
+- 한국생산기술연구원 인턴
+- 한국생산기술연구원 UST 석사과정
+
+# 안종혁
+---
+- 울산대학교 학사
+- 한국생산기술연구원 인턴
+- 한국생산기술연구원 UST 석사과정
+
+# 강환희
+---
+- 건국대학교 학사
+- 한국생산기술연구원 연구원
+- 한국생산기술연구원 UST 석사과정
