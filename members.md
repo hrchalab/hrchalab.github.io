@@ -59,36 +59,41 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 - 성균관대학교 박사과정
 
-# 김경민
+# 김경민 (Ph.d Student)
 ---
 - 한국생산기술연구원 UST 박사과정
 
-# 정찬영
+# 정찬영 (Ph.d Student)
 ---
 - GIST 학사
 - 한국생산기술연구원 연구원
 - GIST 박사과정
 
-# 임태윤
+# 임태윤 (Master Student)
 ---
 - 조선대학교 메카트로닉스 학과
 - 한국생산기술연구원 연구원
 - 전남대학교 전기전자 석사 (재학중)
 
-# 변재국
+# 변재국 (Master Student)
 ---
 - 울산대학교 학사
 - 한국생산기술연구원 인턴
 - 한국생산기술연구원 UST 석사과정
 
-# 안종혁
+# 안종혁 (Master student)
 ---
 - 울산대학교 학사
 - 한국생산기술연구원 인턴
 - 한국생산기술연구원 UST 석사과정
 
-# 강환희
+# 강환희 (Master student)
 ---
 - 건국대학교 학사
 - 한국생산기술연구원 연구원
 - 한국생산기술연구원 UST 석사과정
+
+===
+# 윤채오 (Research Assistant)
+- 조선대학교 러시아학과
+
