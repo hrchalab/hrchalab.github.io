@@ -28,7 +28,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 - Myeong Hwan Hwang, Gye Seong Lee, Eugene Kim, Hyeon Woo Kim, Seungha Yoon, Teressa Talluri, Hyun Rok Cha, "Regenerative Braking Control Strategy Based on AI Algorithm to Improve Driving Comfort of Autonomous Vehicles", Applied Sciences, 2023.01.10 [link](https://www.mdpi.com/2076-3417/13/2/946)
 
-- Authority Transfer According to a Driver Intervention Intention Considering Coexistence of Communication Delay, T Lim, M Hwang, E Kim, H Cha - Computers, 2023. [link](https://www.mdpi.com/2073-431X/12/11/228)
+- T Lim, M Hwang, E Kim, H Ch, Authority Transfer According to a Driver Intervention Intention Considering Coexistence of Communication Delay, Computers, 2023. [link](https://www.mdpi.com/2073-431X/12/11/228)
 
 ## Proceedings
 - T Lim, E Kim, Y Hwang, H Cha, Authority transfer According to Driver Intervention Intention Considering Coexistence of Communication Delay 2023 IEEE 6th International Conference on Knowledge Innovation and Invention 2023 [link](https://ieeexplore.ieee.org/abstract/document/10332567).
