@@ -24,7 +24,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 # 2023
 ---
 ## Journal 
-- A Angani, HW Kim, MH Hwang, E Kim, KM Kim, HR Cha, "A comparison between Zig-Zag plated hybrid parallel pipe and liquid cooling battery thermal management systems for Lithium-ion battery module", Applied Thermal Engineering 219, 119599 [link](https://www.sciencedirect.com/science/article/pii/S1359431122015290))
+- A Angani, HW Kim, MH Hwang, E Kim, KM Kim, HR Cha, "A comparison between Zig-Zag plated hybrid parallel pipe and liquid cooling battery thermal management systems for Lithium-ion battery module", Applied Thermal Engineering 219, 119599 [link](https://www.sciencedirect.com/science/article/pii/S1359431122015290)
 
 - Myeong Hwan Hwang, Gye Seong Lee, Eugene Kim, Hyeon Woo Kim, Seungha Yoon, Teressa Talluri, Hyun Rok Cha, "Regenerative Braking Control Strategy Based on AI Algorithm to Improve Driving Comfort of Autonomous Vehicles", Applied Sciences, 2023.01.10 [link](https://www.mdpi.com/2076-3417/13/2/946)
 
