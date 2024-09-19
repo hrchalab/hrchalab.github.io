@@ -48,6 +48,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - Cha, Hyunrok; Hwang, Myeonghwan; Kim, Kyoungmin, "Rear Wheel Steering System for Vehicles Using Axial Flux Permanent Motor", 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), pp.790-793, 2023
 
 - Hartono, Rodi; Kalend, Tshibang Patrick A; Cha, Hyun-Rok; Shin, Kyoo-Jae, "Design of Electric Power Steering System for a Self-Driving Car", 대한전자공학회 학술대회, pp.1901-1904, 2023
+
 ---
 
 # 2022
