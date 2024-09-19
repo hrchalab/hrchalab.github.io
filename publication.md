@@ -8,6 +8,10 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
 ## Journal
+- Kim, Kyoungmin; Hwang, Myeonghwan; Kim, Hyungsuk KD; Cha, Hyunrok, "Torque Improvement and Magnetic Flux Leakage Reduction in Interior Permanent Magnet Axial Flux Motors with Flux Barrier Structure", IEEE ACCESS, 2024 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:u_35RYKgDlwC) 
+
+- Hartono, Rodi; Cha, Hyun Rok; Shin, Kyoo Jae, "Design of Electric Power Steering System Identification and Control for Autonomous Vehicles Based on Artificial Neural Network", IEEE ACCESS, [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:CHSYGLWDkRkC)
+
 - E Kim, H Cha, T Talluri, C Jeong, H Kim, S Yoon, M Hwang. "Delay Compensation and Outlier Removal in Command Signal for Teleoperated Vehicle using Asynchronous Filter." IEEE Access (2024). [link](https://ieeexplore.ieee.org/iel7/6287639/6514899/10480424.pdf)
 
 - E Kim, M Hwang, T Lim, C Jeong, S Yoon, H Cha, Communication Delay Outlier Detection and Compensation for Teleoperation Using Stochastic State Estimation, Sensors 24 (4), 1241. [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=Xp1cT4MAAAAJ&sortby=pubdate&citation_for_view=Xp1cT4MAAAAJ:_Qo2XoVZTnwC)
