@@ -2,6 +2,7 @@
 layout: page
 title: gallery
 subtitle: Smart mobilities & Motor design & Autonomous-driving
+comments: true
 ---
 
 # 2024
