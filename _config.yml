@@ -31,6 +31,7 @@ navbar-links:
   Projects:
     - current projects: "aboutme"
     - finished projects: "aboutme"
+  Posts: "posts"  # Add this line for posts
 
 ################
 # --- Logo --- #
