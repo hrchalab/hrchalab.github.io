@@ -14,6 +14,6 @@ comments: true
  - 저널 IEEE Access 
  - 게시자 IEEE
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/2024KKM1.JPG?raw=true)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/2024KKM1.PNG?raw=true)
 {: .box-note}
 **Congrat.**
