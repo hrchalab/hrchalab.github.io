@@ -25,13 +25,14 @@ navbar-links:
    - current members: "members"
    - alumini: "alumini"
    - gallery: "gallery"
+  Posts: "/"
   Research:
     - Publication: "publication"
     - Battery: "battery"
   Projects:
     - current projects: "aboutme"
     - finished projects: "aboutme"
-  Posts: "posts"  # Add this line for posts
+  
 
 ################
 # --- Logo --- #
