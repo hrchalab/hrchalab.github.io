@@ -77,3 +77,130 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ## Proceedings
 - 김영곤; 황명환; 차현록; "소형 발전소를 모사한 태양광 모듈 고장이미지 기반 주요 불량 유형 검출 방법"한국태양에너지학회 학술대회논문집,172-172,2021 [link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10587718)
 
+---
+
+# 2020
+---
+## Journal 
+- Lim, Sang-Kil; Lee, Hae-Sol; Cha, Hyun-Rok; Park, Sung-Jun; "Multi-level DC/DC converter for E-mobility charging stations"IEEE Access,8,,48774-48783,2020. [link](https://ieeexplore.ieee.org/abstract/document/9020107/)
+
+## Proceedings
+- 김영곤; 차현록; 황명환; "태양광 모듈 고장이미지 기반 불량검출 시스템 개발"한국기계기술학회 학술대회논문집,25-25,2020. [link](https://www.earticle.net/Article/A379458)
+
+- 김영곤; 황명환; 차현록; "영상처리기반의 태양광 모듈 실시간 고장 검출 시스템 개발"한국정밀공학회 학술발표대회 논문집,653-653,2020. [link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10489987)
+
+---
+
+# 2019
+---
+## Journal 
+- Lee GyeSeong, Lee GyeSeong; Kim DongHyun, Kim DongHyun; Han JongHo, Hwang MyeongHwan, Cha HyunRok. "Optimal operating point determination method design for range-extended electric vehicles based on real driving tests.", Energies, 2019. [link] ()
+
+- Hwang, Myeong-Hwan; Lee, Hae-Sol; Yang, Se-Hyeon; Cha, Hyun-Rok; Park, Sung-Jun; "Electromagnetic field analysis and design of an efficient outer rotor inductor in the low-speed section for driving electric vehicles"Energies,12,24,4615,2019
+
+- Hwang, Myeong-Hwan; Lee, Hae-Sol; Yang, Se-Hyeon; Lee, Gye-Seong; Han, Jong-Ho; Kim, Dong-Hyun; Kim, Hyeon-Woo; Cha, Hyun-Rok; "Cogging Torque Reduction and Offset of Dual-Rotor Interior Permanent Magnet Motor in Electric Vehicle Traction Platforms"Energies,12,9,1761,2019
+
+- Lim, Sang-Kil; Park, Seong-Mi; Cha, Hyun-Rok; Park, Sung-Jun; "A Study on the Improvement of Parallel Operation Characteristics of DC/DC Converter Using Improved Full-Duplex Communication Hardware"Applied Sciences,9,24,5346,2019
+
+- Hwang, Myeong-Hwan; Lee, Hae-Sol; Han, Jong-Ho; Kim, Dong-Hyun; Cha, Hyun-Rok; "Densification Mechanism of Soft Magnetic Composites Using Ultrasonic Compaction for Motors in EV Platforms"Materials,12,5,824,2019
+
+- Han, Jong-Ho; Kim, Dong-Hyun; Hwang, Myeong-Hwan; Lee, Gye-Seong; Cha, Hyun-Rok; "Active virtual impedance control for sound-following robots to avoid obstacles"Electronics,8,5,522,2019
+
+- Lee, Gye-Seong; Kim, Dong-Hyun; Han, Jong-Ho; Hwang, Myeong-Hwan; Cha, Hyun-Rok; "Optimal operating point determination method design for range-extended electric vehicles based on real driving tests"Energies,12,5,845,2019
+
+## Proceedings
+- 김영곤; 양세현; 황명환; 차현록; "환경 챔버를 활용한 태양광 모듈 가속수명시험에 대한 연구"한국정밀공학회 학술발표대회 논문집,,,461-461,2019
+
+- Yang, Se-Hyeon; Lee, Hae-Sol; Lee, Gye-Seong; Kim, Dong-Hyun; Cha, Hyun-Rok; Kim, Young-Bae; "Improvement on stiffness of vehicle body applying variable platform for vehicle"2019 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific),,,45296,2019
+
+- Lee, Hae-Sol; Cha, Hyun-Rok; Yang, Se-Hyeon; Kim, Dong-Hyun; Lee, Gye-Seong; Kim, Hyeon-Woo; "Optimal Design and Analysis of Interior Permanent Magnet Motor for High-Thrust Drone"2019 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific),,,45295,2019
+
+- Lee, Gye-Seong; Kim, Dong-Hyun; Han, Jong-Ho; Yang, Se-Hyun; Lee, Hae-Sol; Cha, Hyun-Rok; "Energy Resources Management Strategy for Agricultural Range Extended Electric Vehicles"2019 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific),,,45295,2019
+
+---
+
+# 2018
+---
+## Journal 
+- 황명환; 이계성; 김동현; 차현록; "주행거리연장형 전기자동차를 위한 발전기 가동시점 알고리즘 개발"공학기술논문지,11,3,191-196,2018
+
+- Hwang, Myeong-hwan; Cha, Hyun-Rok; Jung, Sung Yong; "Practical endurance estimation for minimizing energy consumption of multirotor unmanned aerial vehicles"Energies,11,9,2221,2018
+
+- Hwang, Myeong-Hwan; Han, Jong-Ho; Kim, Dong-Hyun; Cha, Hyun-Rok; "Design and analysis of rotor shapes for IPM motors in EV power traction platforms"Energies,11,10,2601,2018
+
+- Hwang, Myeong-Hwan; Lee, Hae-Sol; Cha, Hyun-Rok; "Analysis of torque ripple and cogging torque reduction in electric vehicle traction platform applying rotor notched design"Energies,11,11,3053,2018
+
+
+## Proceedings
+- 김동현; 황명환; 한종호; 오용근; 홍현호; 차현록; "EV 차량 구동을 위한 전후륜 모터의 최적 동력분배 알고리즘"한국자동차공학회 지회 학술대회 논문집,,,15-19,2018
+
+---
+
+# 2017
+---
+## Proceedings
+- 차현록; 임대영; 황명환; "마그네슘 봉재 성형을 위한 초음파 압출시스템"한국기계가공학회 춘추계학술대회 논문집,,,219-219,2017
+
+- Hwang, Myeonghwan; Kim, Donghyeon; Yang, Seungjin; Cha, Hyunrok; Han, Jongho; "FEA-based Torque Ripple and Noise Reduction of DC Motor for Automotive Air-Conditioning"전기학회논문지,66,12,1895-1898,2017
+
+---
+
+# 2016
+---
+## Journal 
+- Park, Su-san; Im, Dea-Yeong; Cha, Hyun-Rok; Ryoo, Young-Jae; "Mechanism of omni-directional personal mobility vehicle with diagonal driving"Journal of the Korean Institute of Intelligent Systems,26,2,153-159,2016
+
+- Ryoo, Young-Jae; Im, Dae-Yeong; Cha, Hyun-Rok; "Design of Robotic Vehicle for Personal Mobility with Electric-Driven Three-Wheels"International Journal of Humanoid Robotics,13,4,1650020,2016
+
+- Lee, Kea-Ho; Cha, Hyun-Rok; Kim, Young-Bae; "Development of an interior permanent magnet motor through rotor cooling for electric vehicles"Applied Thermal Engineering,95,,348-356,2016
+
+## Proceedings
+- 박수산; 임대영; 차현록; 유영재; "대각선 주행이 가능한 전방향 개인용 이동수단용 메커니즘"한국지능시스템학회 논문지,26,2,153-159,2016
+
+- 김영곤; 차현록; 김동현; 김지선; 김인주; "자동차용 초고강도강의 이종 스폿용접부 특성에 미치는 용접변수의 영향"한국정밀공학회 학술발표대회 논문집,,,208-209,2016
+
+---
+
+# 2015
+---
+## Journal 
+-
+
+## Proceedings
+- 임대영; 조규진; 이성호; 차현록; 김명복; 오광교; 최인철; 곽봉우; 이규석; 유영재; "농업용 무인운송수단의 무인주행시스템 설계"한국지능시스템학회 학술발표 논문집,25,1,27-28,2015
+
+- 박수산; 유영재; 임대영; 차현록; "대각선 주행이 가능한 퍼스널 모빌리티의 설계"한국지능시스템학회 학술발표 논문집,25,2,79-82,2015
+
+-박수산; 이용준; 유영재; 임대영; 차현록; 조규진; 권용기; "퍼스널모빌리티의 모빌리티 성능시험 방안"한국지능시스템학회 학술발표 논문집,25,1,77-79,2015
+
+- 임대영; 이성호; 차현록; 김명복; 오광교; 최인철; 곽봉우; 이규석; 유영재; 김의선; "농업용 AGV 의 무인주행 제어시스템설계"한국지능시스템학회 학술발표 논문집,25,2,87-88,2015
+
+---
+
+# 2015
+---
+## Journal 
+- Im, Daeyeong; Cha, Hyunrok; Ryoo, Youngjae; "Development of Steering Controller for Electric Vehicle"Soft Computing in Advanced Robotics,,,29-36,2014
+
+- Shin, Kyoo-Jae; Cha, Hyun-Rok; "Design of Embedded Electrical Power Control Unit for Personal Electrical Vehicle"Journal of IKEEE,18,2,282-290,2014
+
+## Proceedings
+- 신규재; 차현록; "1 인승 전기차량의 임베디드 전동제어장치 설계"전기전자학회논문지,18,2,282-290,2014
+
+- 임대영; 차현록; 박봉기; 이계호; 황명환; 최경락; 김동현; "자계기반 무인 전기자동차의 개발"한국자동차공학회 지회 학술대회 논문집,,,40-41,2014
+
+- 신규재; 차현록; "1 인승 전기차량을 위한 임베디드 전력구동 제어장치"대한전자공학회 학술대회,,,1767-1769,2014
+
+- 조규진; 유영재; 차현록; 임대영; "조향 및 구동바퀴를 가진 개인운송수단의 제어기 설계"한국지능시스템학회 학술발표 논문집,24,2,53-54,2014
+
+- 임대영; 차현록; 박봉기; 이계호; 황명환; 최경락; 유영재; 권용기; "ICT 융합 전기구동 Personal Mobility 제어시스템설계"한국지능시스템학회 학술발표 논문집,24,1,33-34,2014
+
+- 황명환; 차현록; 임대영; 이계호; 김동현; 최경락; 박성준; "E-4WD 시스템의 전륜구동과 후륜구동의 성능 특성 분석"한국자동차공학회 지회 학술대회 논문집,,,22-25,2014
+
+- 이계호; 차현록; 임대영; 황명환; 김동현; 최경락; 김영배; "차랑용 고열전도 Alloy 합금 Case 를 적용한 PMSM 의 출력밀도 향상설계"한국자동차공학회 지회 학술대회 논문집,,,26-30,2014
+
+- 조규진; 유영재; 권용기; 차현록; 임대영; "좁은 공간에서 360 도 회전이 가능한 개인용 운송수단의 설계"한국지능시스템학회 학술발표 논문집,24,1,45418,2014
+
+- Jo, Gyu-Jin; Ryoo, Young-Jae; Im, Dae-Yeong; Cha, Hyun-Rok; "Design of Personal Mobility with 360 Degree Rotation in Narrow Space"Proceedings of KIIS Spring Conference,24,1,45418,2014
+
+- Jo, Gyu-Jin; Ryoo, Young-Jae; Im, Daeyeong; Cha, Hyunrok; "Electric driven three-wheeled robotic vehicle (Robicle) for personal mobility system"2014 Joint 7th International Conference on Soft Computing and Intelligent Systems (SCIS) and 15th International Symposium on Advanced Intelligent Systems (ISIS),,,435-439,2014
