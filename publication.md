@@ -28,6 +28,8 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 # 2023
 ---
 ## Journal 
+- Cha, Hyun-Rok; Angani, Amarnathvarma; Hwang, Myeong-Hwan, "Thermal management of lithium-ion batteries by novel designs of wavy cold plates: Performance comparison", Journal of Energy Storage, vol 13, num 2, pp.109303, 2023. [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:SP6oXDckpogC)
+
 - A Angani, HW Kim, MH Hwang, E Kim, KM Kim, HR Cha, "A comparison between Zig-Zag plated hybrid parallel pipe and liquid cooling battery thermal management systems for Lithium-ion battery module", Applied Thermal Engineering 219, 119599 [link](https://www.sciencedirect.com/science/article/pii/S1359431122015290)
 
 - Myeong Hwan Hwang, Gye Seong Lee, Eugene Kim, Hyeon Woo Kim, Seungha Yoon, Teressa Talluri, Hyun Rok Cha, "Regenerative Braking Control Strategy Based on AI Algorithm to Improve Driving Comfort of Autonomous Vehicles", Applied Sciences, 2023.01.10 [link](https://www.mdpi.com/2076-3417/13/2/946)
@@ -43,6 +45,9 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 - C Jeong, E Kim, MH Hwang, HR Cha, Enhancing Drivers’ Perception of Traffic Lights through Haptic Alerts on the Brake Pedal, 2023 IEEE 6th International Conference on Knowledge Innovation and Invention. [link](https://ieeexplore.ieee.org/abstract/document/10332767/)
 
+- Cha, Hyunrok; Hwang, Myeonghwan; Kim, Kyoungmin, "Rear Wheel Steering System for Vehicles Using Axial Flux Permanent Motor", 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), pp.790-793, 2023
+
+- Hartono, Rodi; Kalend, Tshibang Patrick A; Cha, Hyun-Rok; Shin, Kyoo-Jae, "Design of Electric Power Steering System for a Self-Driving Car", 대한전자공학회 학술대회, pp.1901-1904, 2023
 ---
 
 # 2022
