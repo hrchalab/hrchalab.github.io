@@ -179,7 +179,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 ---
 
-# 2015
+# 2014
 ---
 ## Journal 
 - Im, Daeyeong; Cha, Hyunrok; Ryoo, Youngjae; "Development of Steering Controller for Electric Vehicle"Soft Computing in Advanced Robotics,,,29-36,2014
