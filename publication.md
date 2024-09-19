@@ -51,7 +51,28 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
 # 2022
-Hyeon-Woo Kim, Angani Amarnathvarma, Eugene Kim, Myeong-Hwan Hwang, Kyoungmin Kim, Hyunwoo Kim, Iksu Choi, Hyun-Rok Cha, "A Novel Torque Matching Strategy for Dual Motor-Based All-Wheel-Driving Electric Vehicles", Energies, 2022.4.7 [link](https://www.mdpi.com/1996-1073/15/8/2717/pdf)
+---
+## Journal 
+- Hyeon-Woo Kim, Angani Amarnathvarma, Eugene Kim, Myeong-Hwan Hwang, Kyoungmin Kim, Hyunwoo Kim, Iksu Choi, Hyun-Rok Cha, "A Novel Torque Matching Strategy for Dual Motor-Based All-Wheel-Driving Electric Vehicles", Energies, 2022.4.7 [link](https://www.mdpi.com/1996-1073/15/8/2717/pdf)
 
-Chanyeong Jeong, Eugene Kim, Myeong-Hwan Hwang, Hyo-Sung Ahn, Hyun-Rok Cha, "Instant Orientation Correction Strategy: Holonomic System-Based Decentralized Control for Nonholonomic Agents", IEEE Access, 2022.11.4 [link](https://ieeexplore.ieee.org/iel7/6287639/6514899/09940298.pdf)
+- Chanyeong Jeong, Eugene Kim, Myeong-Hwan Hwang, Hyo-Sung Ahn, Hyun-Rok Cha, "Instant Orientation Correction Strategy: Holonomic System-Based Decentralized Control for Nonholonomic Agents", IEEE Access, 2022.11.4 [link](https://ieeexplore.ieee.org/iel7/6287639/6514899/09940298.pdf)
+
+## Proceedings
+- 마세현; 김지훈; 문장원; 차현록; 김병철; "EMS 기능을 갖는 반자율주행 전기차 공용 샤시플랫폼 개발"한국자동차공학회 추계학술대회 및 전시회,2522-2523,2022 [link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11220659)
+
+
+# 2021
+---
+## Journal 
+- Hwang, Myeong-Hwan; Kim, Young-Gon; Lee, Hae-Sol; Kim, Young-Dae; Cha, Hyun-Rok; "A study on the improvement of efficiency by detection solar module faults in deteriorated photovoltaic power plants"Applied Sciences,11,2,727,2021 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=IkapulUAAAAJ:OU6Ihb5iCvQC)
+
+- Lee, Hae-Sol; Hwang, Myeong-Hwan; Cha, Hyun-Rok; "Electromagnetic Field Analysis and Design of a Hermetic Interior Permanent Magnet Synchronous Motor with Helical-Grooved Self-Cooling Case for Unmanned Aerial Vehicles"Applied Sciences,11,11,4856,2021 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:PELIpwtuRlgC)
+  
+- Kim, Hyeon-Woo; Cha, Hyun-Rok; "Sliding mode-based slip control of compact electric vehicle truck for varying load and yaw rate"Applied Sciences,11,14,6465,2021 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:q3oQSFYPqjQC)
+  
+- Lee, Hae-Sol; Hwang, Myeong-Hwan; Cha, Hyun-Rok; "Development of an optimal power-distribution-management algorithm for four-wheel-drive electric vehicles"IEEE Access,9,,99731-99741,2021 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:PELIpwtuRlgC)
+
+
+## Proceedings
+- 김영곤; 황명환; 차현록; "소형 발전소를 모사한 태양광 모듈 고장이미지 기반 주요 불량 유형 검출 방법"한국태양에너지학회 학술대회논문집,172-172,2021 [link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10587718)
 
