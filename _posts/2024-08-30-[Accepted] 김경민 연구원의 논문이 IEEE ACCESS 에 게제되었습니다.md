@@ -2,7 +2,7 @@
 title: 김경민 연구원의 논문이 IEEE ACCESS 에 게제되었습니다
 subtitle: 축하합니다
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Aboutus_small.jpg
+thumbnail-img: /assets/img/2024KKM1.png
 share-img: /assets/img/path.jpg
 tags: [Journal, ACCEPTED, Kyoungmin Kim]
 comments: true
@@ -16,4 +16,8 @@ comments: true
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/2024KKM1.png?raw=true)
 {: .box-note}
+
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/2024KKM2.png?raw=true)
+{: .box-note}
+
 **Congrat.**
