@@ -8,6 +8,8 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
 ## Journal
+- Talluri, Teressa; Angani, Amarnathvarma; Hwang, Myeong-Hwan; Cha, Hyun-Rok; "A novel design of lithium-polymer pouch battery pack with passive thermal management for electric vehicles"Energy,304,,132205,2024. [link](https://www.sciencedirect.com/science/article/pii/S0360544224019790)
+
 - Kim, Kyoungmin; Hwang, Myeonghwan; Kim, Hyungsuk KD; Cha, Hyunrok, "Torque Improvement and Magnetic Flux Leakage Reduction in Interior Permanent Magnet Axial Flux Motors with Flux Barrier Structure", IEEE ACCESS, 2024 [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:u_35RYKgDlwC) 
 
 - Hartono, Rodi; Cha, Hyun Rok; Shin, Kyoo Jae, "Design of Electric Power Steering System Identification and Control for Autonomous Vehicles Based on Artificial Neural Network", IEEE ACCESS, [link](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=IkapulUAAAAJ&sortby=pubdate&citation_for_view=IkapulUAAAAJ:CHSYGLWDkRkC)
