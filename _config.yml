@@ -20,12 +20,12 @@ author: HyunRok Cha
 ###############################################
 
 navbar-links:
+  Posts: "/"
   About supervisor: "aboutme"
   Members: 
    - current members: "members"
    - alumini: "alumini"
    - gallery: "gallery"
-  Posts: "/"
   Research:
     - Publication: "publication"
     - Battery: "battery"
@@ -125,7 +125,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "차현록, HR CHA, Cha, Hyunrok Cha, Hyunrok, Kitech, Gwangju, Egkim, Kim, Hwang, MyeongHwan"
 
 ######################################
 # --- Colours / background image --- #
