@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 @font-face {
-	font-family: 'Noto Sans KR';
+	font-family: 'Noto Sans KR',"Roboto";
 	src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
 	font-weight: normal;
 	font-style: normal;
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  font-family: 'Noto Sans KR','Lora', 'Times New Roman', serif;
+  font-family: 'Noto Sans KR',"Roboto",'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
