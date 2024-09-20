@@ -1,5 +1,5 @@
 ---
-title: :sparkles:(Accepted)Teressa Talluri 연구원의 논문이 Energy 에 게제되었습니다
+title: (Accepted)Teressa Talluri 연구원의 논문이 Energy 에 게제되었습니다
 subtitle: 축하합니다
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/2024T1.jpg
