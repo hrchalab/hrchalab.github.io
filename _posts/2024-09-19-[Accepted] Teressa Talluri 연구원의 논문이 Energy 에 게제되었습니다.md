@@ -1,9 +1,7 @@
 ---
 title: (Accepted)Teressa Talluri 연구원의 논문이 Energy 에 게제되었습니다
 subtitle: 축하합니다
-cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/2024T1.jpg
-share-img: /assets/img/path.jpg
 tags: [Journal, ACCEPTED, Teressa Talluri]
 comments: true
 ---
