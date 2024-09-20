@@ -4,7 +4,7 @@ title: Remote control
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
-# Remote control system (원격 제어 시스템)
+# Remote control (원격 제어 시스템)
 Our lab is conducting research about utilizing teleoperation.
 > **Question #1** : Will it be possible to overcome the communication delay?
 
