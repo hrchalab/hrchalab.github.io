@@ -6,8 +6,11 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 # Remote control system (원격 제어 시스템)
 Our lab is conducting research about utilizing teleoperation.
-> 
+> :question: Question #1 : Will it be possible to overcome the communication delay?
 
-![](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/?raw=true)
+**Firstly we have to define how much communication delay that should be permitted**
 
-**Eugene Kim**
+
+![](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/CD.jpg?raw=true)
+
+**Author: Eugene Kim**
