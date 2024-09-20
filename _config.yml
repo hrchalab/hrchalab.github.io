@@ -28,7 +28,10 @@ navbar-links:
    - gallery: "gallery"
   Research:
     - Publication: "publication"
-    - Battery: "battery"
+    - (Theme) Motor design: "research_motor"
+    - (Theme) Autonomous driving: "research_autonomous"
+    - (Theme) Remote control: "research_remote"
+    - (Theme) Battery: "research_battery"
   Projects:
     - current projects: "aboutme"
     - finished projects: "aboutme"
