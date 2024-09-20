@@ -4,11 +4,10 @@ title: Remote control
 subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 
-# Remote control system
-원격제어는 다양한 방법에 사용될 수 있습니다.
-이 말을 노트에 추가
-{: .box-note}
+# Remote control system (원격 제어 시스템)
+Our lab is conducting research about utilizing teleoperation.
+> 
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/battery(1).JPG?raw=true)
-{: .box-note}
+![](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/?raw=true)
+
 **Eugene Kim**
