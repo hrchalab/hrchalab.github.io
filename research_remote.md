@@ -10,11 +10,11 @@ Our lab is conducting research about utilizing teleoperation.
 
 **Firstly we have to define how much communication delay that should be permitted**
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/example_teleopration.png)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/example_teleopration.png?raw=true)
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/experiment.jpg)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/experiment.jpg?raw=true)
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/communication_delay.png)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/communication_delay.png?raw=true)
 
 - Measured 5G/LTE communication delay profiles
 
