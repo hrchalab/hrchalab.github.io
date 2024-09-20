@@ -8,7 +8,7 @@ tags: [Journal, ACCEPTED, Teressa Talluri]
 comments: true
 ---
 
-# Torque Improvement and Magnetic Flux Leakage Reduction in Interior Permanent Magnet Axial Flux Motors with Flux Barrier Structure
+# A novel design of lithium-polymer pouch battery pack with passive thermal management for electric vehicles
  - 저자 Teressa Talluri, Amarnathvarma Angani, Myeong-Hwan Hwang, Hyun-Rok Cha
  - 게시 날짜 2024/9/30
  - 저널 Energy 
