@@ -1,5 +1,5 @@
 ---
-title: :sparkles: (Accepted)김경민 연구원의 논문이 IEEE ACCESS 에 게제되었습니다
+title: (:sparkles:)김경민 연구원의 논문이 IEEE ACCESS 에 게제되었습니다
 subtitle: 축하합니다
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/2024KKM1.png
