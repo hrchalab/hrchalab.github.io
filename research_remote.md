@@ -6,7 +6,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 # Remote control (원격 제어 시스템)
 저희랩에서는 모빌리티 전반의 원격제어 시스템에 관한 연구를 진행하고 있습니다
-> **Core Idea #1** : 원격제어를 사용한 실 차량제어?
+> **Core Idea #1** : 원격제어를 사용한 실 차량제어
 
 **5G/LTE 망을 사용한 국내 유일의 양방향 원격 관제센터 개설**
 
