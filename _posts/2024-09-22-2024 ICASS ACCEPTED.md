@@ -1,5 +1,5 @@
 ---
-title: (Proceeding)변재국,안종혁,강환희 연구원의 학회논문이 Accept 되었습니다 
+title: (Proceeding)변재국,안종혁,강환희 연구원의 학회논문이 2024 ICCAS에 Accept 되었습니다 
 subtitle: 축하합니다
 thumbnail-img: /assets/img/ICCAS2024.jpg
 tags: [Proceeding, ACCEPTED, 변재국, 안종혁, 강환희]
