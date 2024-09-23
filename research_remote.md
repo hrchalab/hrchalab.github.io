@@ -12,8 +12,9 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/원격제어영상1.gif?raw=true)
 
-{: .box-note}
-전국 유일의 양방향 관제센터는 광주광역시 한국생산기술연구원 서남본부에 위치하고 있습니다.
+> 전국 유일의 양방향 관제센터는 광주광역시 한국생산기술연구원 서남본부에 위치하고 있습니다.
+
+- 2019년부터 광주무인저속특장차 규제자유특구 사업을 통해 총합 700시간, 1,700여 km를 관제중에 있습니다.
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/example_teleopration.png?raw=true)
 
