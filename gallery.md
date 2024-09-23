@@ -6,7 +6,7 @@ comments: true
 ---
 
 # 2024
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/20240529_102603.jpg?raw=true){: width="700" height="500"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/20240529_102603.jpg?raw=true){: width="850" height="500"}
 - 2024년 생기원 홍보 촬영
 
 ---
