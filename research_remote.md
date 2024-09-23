@@ -24,15 +24,11 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/communication_delay.png?raw=true)
 > Gaussian Mixture Model (GMM)을 사용한 통신 지연의 모델링
 
-
-
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/example_teleopration.png?raw=true)
+> 양방향 통합 관제센터의 구성
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/experiment.jpg?raw=true)
-
-
-
-- Measured 5G/LTE communication delay profiles
+> 실차량 및 통합관제센터간의 통신구성도
 
 
 
