@@ -35,6 +35,7 @@ navbar-links:
   Projects:
     - current projects: "aboutme"
     - finished projects: "aboutme"
+    - news: "news"
   
 
 ################
