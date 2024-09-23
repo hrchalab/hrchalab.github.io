@@ -10,6 +10,8 @@ Our lab is conducting research about utilizing teleoperation.
 
 **Firstly we have to define how much communication delay that should be permitted**
 
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/원격제어영상1.gif?raw=true)
+
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/example_teleopration.png?raw=true)
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/experiment.jpg?raw=true)
