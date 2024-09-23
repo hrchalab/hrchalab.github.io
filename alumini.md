@@ -23,7 +23,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 최지수 (Research Assistant, 22', -> 한국생산기술연구원)
 - 백지원 (Research Assistant, 22')
 - 서기대 (Research Assistant, 22', -> 세방)
-- 이승민 (Research Assistant, 22', -> 롯데 (부산))
+- 이승민 (Research Assistant, 22', -> 엘지)
 - 이상용 (Research Assistant, 22', -> 그린카 진흥원)
 
 ---
