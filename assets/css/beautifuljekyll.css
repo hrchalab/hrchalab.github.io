@@ -3,8 +3,10 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
+
 @font-face {
-	font-family: 'Noto Sans KR',"Roboto";
+	font-family: 'Open Sans',"Roboto";
 	src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
 	font-weight: normal;
 	font-style: normal;
@@ -16,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'Noto Sans KR',"Roboto",'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans',"Roboto",'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -28,12 +30,12 @@ body {
   overflow-wrap: break-word;
 }
 p {
-  font-family: 'Noto Sans KR','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;	
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;	
   line-height: 1.5;
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Noto Sans KR','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
