@@ -40,16 +40,16 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/experiment.jpg?raw=true)
 > 실차량 및 통합관제센터간의 통신구성도
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/profile.jpg?raw=true)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/profile.JPG?raw=true)
 > 초저지연 양방향 관제센터와 대상차량간의 단방향 통신지연 계측 결과 및 프로필 생성
 
 ## Core Idea #3 : 단방향 통신지연의 보상을 통한 원격제어 성능의 향상
 
 **통신지연 보상기의 설계를 통한 미래제어명령 예측자 설계**
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/mechanism.jpg?raw=true)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/mechanism.JPG?raw=true)
 > 무향 칼만필터를 기본으로하여 단방향 통신지연만큼의 예측기설계를 통해 실제 수신값과의 확률적 보상
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/result.jpg?raw=true)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/remote/result.JPG?raw=true)
 > 일정한 통신지연 뿐만이 아니라, 일시적인 통신두절이나, 단발적이상값에 대한 내성이 강화되고, 성능의 향상을 확인
 
 **인공신경망을 사용한 미래제어명령/영상정보 예측기 설계**
