@@ -28,6 +28,7 @@ navbar-links:
    - gallery: "gallery"
   Research:
     - Publication: "publication"
+    - Patents: "patents"
     - (Theme) Motor design: "research_motor"
     - (Theme) Autonomous driving: "research_autonomous"
     - (Theme) Remote control: "research_remote"
