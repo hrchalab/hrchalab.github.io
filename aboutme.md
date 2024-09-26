@@ -30,7 +30,7 @@ tags: [차현록,차현록교수,UST,한국생산기술연구원,홈페이지,�
 
 ## Contact
 ```
-Email: hrcha[at]kitech.re.kr
+Email: hrcha@kitech.re.kr
 ```
 
 ---
