@@ -6,6 +6,7 @@ comments: true
 ---
 
 # 2024
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/20240912_수평워크숍.jpg?raw=true){: width="400"}
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/20240602_IVIT.jpg?raw=true){: width="850" height="400"}
 - IEEE IVIT 학회에서
