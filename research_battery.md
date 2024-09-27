@@ -6,7 +6,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 # Core Idea #1 : Real  Battery Thermal Management System (BTMS) 
 - Reduces overheating & explosion
 - Light weight, compact, and flexible battery packs were designed
-- Zig-zag plate was integrated cooling technology was developed
+- Zig-zag plate was integrated cooling technology was developed (28% improved)
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/battery/battery_intro.jpg?raw=true)
 
