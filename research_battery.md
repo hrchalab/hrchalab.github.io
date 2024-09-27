@@ -8,7 +8,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - Light weight, compact, and flexible battery packs were designed
 - Zig-zag plate was integrated cooling technology was developed
 
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/battery/battery1.JPG?raw=true)
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/battery/battery_intro.jpg?raw=true)
 
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/battery/battery2.JPG?raw=true)
 
