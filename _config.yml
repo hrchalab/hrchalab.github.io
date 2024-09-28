@@ -34,7 +34,7 @@ navbar-links:
     - (Theme) Remote control: "research_remote"
     - (Theme) Battery: "research_battery"
   Projects:
-    - current projects: "aboutme"
+    - current projects: "current_project"
     - finished projects: "aboutme"
     - news: "news"
   
