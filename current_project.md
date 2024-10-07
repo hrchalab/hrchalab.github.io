@@ -10,7 +10,9 @@ comments: true
 ## 프로젝트 목록
 
 ### 1. **가전 공장의 비정형 생산제품의 고품질 관리를 위한 AI 기반 장비**
-![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/자율제조AI.jpg?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림1.jpg?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림2.jpg?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림3.jpg?raw=true){: width="850"}
 
 
 - **프로젝트 기간**: 2024.09 - 2027.12
