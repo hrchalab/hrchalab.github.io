@@ -35,7 +35,9 @@ comments: true
 
 ### 2. **고령 친화 모빌리티 주행보조 및 자율주행 기술 개발**
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림4.png?raw=true){: width="850"}
-
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림5.png?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림6.png?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림7.png?raw=true){: width="850"}
 
 - **프로젝트 기간**: 2024.04 - 2025.3
 - **연구 주제/목표**: 지능형 스마트 모빌리티 제어기술을 통해 고령친화 모빌리티의 자율주행 기술 개발 및 실증
