@@ -26,6 +26,7 @@ navbar-links:
    - current members: "members"
    - alumini: "alumini"
    - gallery: "gallery"
+  Devices: "devices"
   Research:
     - Publication: "publication"
     - Patents: "patents"
