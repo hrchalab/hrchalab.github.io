@@ -55,7 +55,9 @@ comments: true
 - **주무부처**: 과학기술정보통신부
 
 ### 3. **종횡방향 확장 운영 가능형 산업용 스케이트보드 개발**
-
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림8.png?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림9.png?raw=true){: width="850"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/project/그림10.png?raw=true){: width="850"}
 - **프로젝트 기간**: 2022.06 - 2025.12
 - **연구 주제/목표**: 자율주행 플랫폼을 위한 4WS 조향이 가능한 산업용 스케이트보드 개발 
 - **내역사업명**:
