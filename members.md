@@ -69,6 +69,13 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 한국생산기술연구원 연구원
 - GIST 박사과정
 
+# 정민권 (Ph.d Student)
+---
+- 건국대학교 (서울) 학사
+- 전남대학교 (광주) 석사
+- (주) 화인특장 기술연구소/부장
+- UST 계약학과 박사과정
+
 # 임태윤 (Master Student)
 ---
 - 조선대학교 메카트로닉스 학과
