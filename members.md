@@ -30,7 +30,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
     <h1>안가니 아마르나스바르마 Angani Amarnathvarma (Ph.D)</h1>
     <p><strong>주요 학력</strong></p>
     <ul>
-      <li>부산외국어대학 박사 (2021)</li>
+      <li>부산외국어대학 ICT창의융합학과 박사 (2021)</li>
     </ul>
     <p><strong>주요 경력</strong></p>
     <ul>
@@ -46,7 +46,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
     <h1>탈룰리 테레사 Talluri Teressa (Ph.D)</h1>
     <p><strong>주요 학력</strong></p>
     <ul>
-      <li>부산외국어대학 박사 (2022)</li>
+      <li>부산외국어대학 ICT창의융합학과 박사 (2022)</li>
     </ul>
     <p><strong>주요 경력</strong></p>
     <ul>
@@ -63,7 +63,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 # 김경민 (Ph.d Student)
 ---
 - 영남이공대 기계공학 학사
-- 한국생산기술연구원 UST 로봇공학 박사과정
+- UST KITECH스쿨 로봇공학 박사과정
 
 # 정찬영 (Ph.d Student)
 ---
@@ -77,7 +77,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 건국대학교 기계공학 학사
 - 전남대학교 전기공학 석사
 - (주) 화인특장 기술연구소/부장
-- UST 계약학과 로봇공학 박사과정
+- UST KITECH스쿨 계약학과 로봇공학 박사과정
 
 # 임태윤 (Master Student)
 ---
@@ -89,16 +89,16 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 - 울산대학교 기계자동차공학 학사
 - 한국생산기술연구원 인턴
-- 한국생산기술연구원 UST 로봇공학 석사과정
+- UST KITECH스쿨 로봇공학 석사과정
 
 # 안종혁 (Master student)
 ---
 - 울산대학교 기계자동차공학 학사
 - 한국생산기술연구원 인턴
-- 한국생산기술연구원 UST 로봇공학 석사과정
+- UST KITECH스쿨 로봇공학 석사과정
 
 # 강환희 (Master student)
 ---
 - 건국대학교 스마트운행체공학 학사
 - 한국생산기술연구원 연구원
-- 한국생산기술연구원 UST 로봇공학 석사과정
+- UST KITECH스쿨 로봇공학 석사과정
