@@ -11,6 +11,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 ---
 - 변재국 (Research Intern, 23', 12.)
 - 안종혁 (Research Intern, 23', 12.)
+  
 ---
 
 - 이계호 (Master degree)
