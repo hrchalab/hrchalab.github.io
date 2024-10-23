@@ -60,19 +60,19 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 성균관대학교 기계공학 학사
 - 성균관대학교 기계공학 박사과정
 
-# 김경민 (Ph.d Student)
+# 김경민 (Ph.D Student)
 ---
 - 영남이공대 기계공학 학사
 - UST KITECH스쿨 로봇공학 박사과정
 
-# 정찬영 (Ph.d Student)
+# 정찬영 (Ph.D Student)
 ---
 - GIST 기계공학 학사
 - GIST 기계공학 석사
 - 한국생산기술연구원 연구원
 - GIST 기계로봇공학 박사과정
 
-# 정민권 (Ph.d Student)
+# 정민권 (Ph.D Student)
 ---
 - 건국대학교 기계공학 학사
 - 전남대학교 전기공학 석사
@@ -91,13 +91,13 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 한국생산기술연구원 인턴
 - UST KITECH스쿨 로봇공학 석사과정
 
-# 안종혁 (Master student)
+# 안종혁 (Master Student)
 ---
 - 울산대학교 기계자동차공학 학사
 - 한국생산기술연구원 인턴
 - UST KITECH스쿨 로봇공학 석사과정
 
-# 강환희 (Master student)
+# 강환희 (Master Student)
 ---
 - 건국대학교 스마트운행체공학 학사
 - 한국생산기술연구원 연구원
