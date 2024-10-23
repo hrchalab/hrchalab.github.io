@@ -18,5 +18,6 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 - 한종호 (Post Doc.)
 - 이계성 (Master degree)
 - 이해솔 (Master degree)
-- 한상욱
-- 박시용
+- 박시용 (Research Intern)
+- 박재현
+- 김주영 (Research Intern)
