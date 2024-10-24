@@ -81,7 +81,7 @@ subtitle: Smart mobilities & Motor design & Autonomous-driving
 
 # 임태윤 (Master Student)
 ---
-- 조선대학교 메카트로닉스 학과
+- 조선대학교 메카트로닉스 학사
 - 한국생산기술연구원 연구원
 - 전남대학교 전기공학 석사과정
 
