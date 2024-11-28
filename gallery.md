@@ -6,6 +6,15 @@ comments: true
 ---
 
 # 2024
+
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india1.jpg?raw=true){: width="850" height="400"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india2.jpg?raw=true){: width="850" height="400"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india3.jpg?raw=true){: width="850" height="400"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india4.jpg?raw=true){: width="850" height="400"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india5.jpg?raw=true){: width="850" height="400"}
+![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/india6.jpg?raw=true){: width="850" height="400"}
+- 인도 KIAT 수요처 발굴 방문
+
 ![labpic](https://github.com/hrchalab/hrchalab.github.io/blob/master/assets/img/20240602_IVIT.jpg?raw=true){: width="850" height="400"}
 - IEEE IVIT 학회에서
 
